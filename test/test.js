@@ -86,6 +86,10 @@ describe('Server app', function () {
     server.start(configManager);
   });
 
+  after(function () {
+    process.exit();
+  });
+
   it('should respond to requests', function(done) {
     request.get(serverUrl, function(error, response, body) {
       assert(!error);
