@@ -5,7 +5,7 @@ https://www.drupal.org/project/nodejs
 
 ## Prerequisites
 
-* [Node.js](https://nodejs.org) version 4
+* [Node.js](https://nodejs.org) version 8
 * [Forever](https://github.com/foreverjs/forever) (optional)
 
 ## Installation
