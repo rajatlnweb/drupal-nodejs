@@ -14,12 +14,10 @@ Desktop.ini
 *~
 
 # npm
-node_modules
 *.log
 *.gz
 
 # App specific
-nodejs.config.js
 
 # Development
 # beejeebus' vim ctags file

@@ -1,0 +1,13 @@
+{
+  "name": "slack_chat_extension",
+  "version": "1.0.0",
+  "description": "Slack chat extension for drupal-node.js.",
+  "main": "index.js",
+  "author": "Gergely Lekli",
+  "repository": "https://git.drupal.org/project/slack_chat.git",
+  "homepage": "https://www.drupal.org/project/slack_chat",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "@slack/client": "^3.5.0"
+  }
+}
