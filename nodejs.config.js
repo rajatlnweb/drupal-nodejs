@@ -81,9 +81,9 @@ settings = {
   resource: '/socket.io',
   serviceKey: 'testing',
   backend: {
-    port: 443,
+    port: 80,
     host: 'dev-colleaga-dev.pantheonsite.io',
-    scheme: 'https',
+    scheme: 'http',
     basePath: '/',
     messagePath: '/nodejs/message'
   },
