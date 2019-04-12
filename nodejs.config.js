@@ -74,9 +74,9 @@
  * logLevel: the log level to be used by Socket.Io, defaults to '1'.
  */
 settings = {
-  scheme: 'http',
-  port: 80,
-  host: 'localhost',
+  scheme: 'https',
+  port: 443,
+  host: 'intense-badlands-13229.herokuapp.com',
   resource: '/socket.io',
   serviceKey: 'testing',
   backend: {
