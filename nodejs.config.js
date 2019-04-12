@@ -77,7 +77,7 @@ settings = {
   scheme: 'https',
   port: 443,
   // host: 'intense-badlands-13229.herokuapp.com',
-  host:'cryptic-lake-37308.herokuapp.com',
+  host:'safe-bastion-71215.herokuapp.com',
   resource: '/socket.io',
   serviceKey: 'testing',
   backend: {
